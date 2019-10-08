@@ -37,4 +37,4 @@ while PLAYING:
             common = int(response)
             words = [w for w in words if commonLetters(guess, w) == common]
             if guess in words: words.remove(guess)
-    PLAYING = input("\n\nOnce  More? ").upper()[0] == "Y"
+    PLAYING = input("\n\n Play Once  More? ").upper()[0] == "Y"

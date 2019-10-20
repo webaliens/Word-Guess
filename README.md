@@ -1,3 +1,3 @@
 # WordGuess
-## Python program for word guessing game
+### Python program for word guessing game
 
